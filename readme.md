@@ -4,6 +4,7 @@ An API to fetch latest videos from youtube sorted in reverse chronological order
 The server fetches latest videos async after every 5 minutes by itself and saves it to the db.
 
 This project is completely based on Django and uses the youtube api.
+Check the png files
 
 ## Setup Guide
 - Clone the project
